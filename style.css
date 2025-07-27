@@ -1,0 +1,35 @@
+header {
+    font-family: sans-serif;
+    background-color: grey;}
+body {
+    font-family: sans-serif;
+    background-color: rgb(226, 202, 202);
+    margin: 0 auto;
+    max-width: 1000px;
+
+}
+
+img{height: 400px;
+    width: 400px;
+
+}
+
+
+nav{
+   margin: 20px 0px;
+   padding:20px 0px;
+   background-color: red;
+   text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    padding-right: 60px; 
+    color: white;
+}
+footer{
+   margin: 20px 0px;
+   padding:20px 0px;
+   background-color: rgb(101, 97, 97);
+   text-align: center;
+}
